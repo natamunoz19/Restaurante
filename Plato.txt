@@ -1,0 +1,6 @@
+class Plato{
+
+	String nombre;
+	float precio;
+	String descripcion;
+}
